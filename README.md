@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Welcome to the URL Shortener Service project! This project provides a robust API for shortening URLs while offering features like click tracking, user authentication, and privacy-aware hashed URLs. It aims to handle long URLs efficiently, preserve query parameters, and enforce usage limits if needed. Whether you're integrating it into your own service or using it standalone, this project offers flexibility and security.
+Welcome to the URL Shortener Service project! This project provides a robust API for shortening URLs while offering features like click tracking, user authentication, and privacy-aware hashed URLs. It aims to handle long URLs efficiently, preserve query parameters, and enforce usage limits if needed. 
 
 ## Features
 
