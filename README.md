@@ -8,10 +8,6 @@
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
